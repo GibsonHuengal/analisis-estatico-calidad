@@ -1,0 +1,1 @@
+# analisis-estatico-calidad
